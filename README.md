@@ -13,7 +13,7 @@ This page was created for you to fork a project and give you an easier access to
 
 ## The Licence
 
-Creative Commons 4.0
+Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
